@@ -30,15 +30,6 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Body & Background */
-body {
-    background-image: url('bg/cafebg.png');
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    padding-top: 100px;
-}
-
 /* Navigation Menu */
 .navmenu {
     display: flex;
