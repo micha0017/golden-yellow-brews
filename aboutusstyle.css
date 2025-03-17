@@ -32,7 +32,7 @@ main {
 }
 
 body {
-    background-image: url(cafebg.png);
+    background-image: url('aboutusbg.png');
     background-size: cover;
     height: 100vh;
     margin: 0;

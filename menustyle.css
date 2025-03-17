@@ -32,7 +32,7 @@ main {
 }
 
 body {
-    background-image: url(bg/pastrybg.png);
+    background-image: url('pastrybg.png');
     background-size: cover;
     height: 105vh;
     top: 100px;
