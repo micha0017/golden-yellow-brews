@@ -31,14 +31,6 @@ main {
     padding-top: 100px;
 }
 
-body {
-    background-image: url('aboutusbg.png');
-    background-size: cover;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-}
-
 .navmenu {
     display: flex;
     gap: 20px;
